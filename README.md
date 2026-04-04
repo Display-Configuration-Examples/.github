@@ -1,0 +1,2 @@
+# .github
+Example configuration files.
